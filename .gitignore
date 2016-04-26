@@ -1,0 +1,4 @@
+/bare/mikeos/*
+*.bin
+*.iso
+*.flp
